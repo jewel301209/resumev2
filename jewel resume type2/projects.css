@@ -1,0 +1,14 @@
+.container1{
+    color: white;
+    border-radius: 20px;
+    background-color: lightblue;
+    text-decoration: none;
+}
+
+.container1 a{
+    text-decoration: none;
+}
+
+body{
+    background-color: grey;
+}
